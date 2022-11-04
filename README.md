@@ -15,7 +15,8 @@ npm run serve
 npm run build
 ```
 
-Consult the AppCondidatureMatserBackend repository for the Front-end part.
+Consult the AppCondidatureMatserBackend repository for the Back-end part.
+https://github.com/KaoutharArbaoui/AppCondidatureMasterBackend
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
